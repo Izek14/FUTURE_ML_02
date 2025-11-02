@@ -1,0 +1,16 @@
+,Feature,Importance,Feature Importance Score
+4,NumOfProducts,0.47049412,0.4705
+1,Age,0.10668501,0.1067
+14,IsActiveMember_1,0.10050049,0.1005
+13,IsActiveMember_0,0.068868145,0.0689
+7,Geography_Germany,0.052448556,0.0524
+2,Tenure,0.03561786,0.0356
+3,Balance,0.0294977,0.0295
+9,Gender_Female,0.02550887,0.0255
+6,Geography_France,0.019156719,0.0192
+8,Geography_Spain,0.018521814,0.0185
+10,Gender_Male,0.017540336,0.0175
+12,HasCrCard_1,0.016304146,0.0163
+5,EstimatedSalary,0.014005607,0.014
+11,HasCrCard_0,0.012632849,0.0126
+0,CreditScore,0.012217758,0.0122
