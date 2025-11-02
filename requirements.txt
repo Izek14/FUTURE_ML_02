@@ -6,3 +6,6 @@ xgboost
 imbalanced-learn
 matplotlib
 seaborn
+streamlit
+plotly
+pickle-mixin
